@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/aziret_ergeshov" target="blank"><img src="https://img.shields.io/twitter/follow/aziret_ergeshov?logo=twitter&style=for-the-badge" alt="aziret_ergeshov" /></a> </p>
 
-- 🔭 I’m currently working on **IT.KG**
-
 - 🌱 I’m currently learning **React Native,Node js**
 
 - 💬 Ask me about **JavaScript, React**
